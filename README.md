@@ -6,4 +6,4 @@ What to use this notebook for:
 - Apply gradient descent in simplest and unadorned form.
 - Set up the cost function and and update parameters iteratively with computed gradients.
 
-The logistic regressions is a powerful modeling technique in itself.
+The logistic regression is a powerful modeling technique in itself.
